@@ -4,7 +4,8 @@
 Welcome to my Data Analytics Portfolio.
 Here I collect my projects built with SQL, Excel, Power BI.
 All projects include documentation, insights, and visualizations. 
-_______________________________________________________________________________________________________________
+---
+---
 
 
 🔍 What you’ll find here
