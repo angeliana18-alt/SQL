@@ -19,5 +19,4 @@ ________________________________________________________________________________
 📬 Contact
 _______________________________________________________________________________________________________________
 
-If you’d like to connect or collaborate:
-LinkedIn: linkedin.com/in/angel-iana
+If you’d like to connect or collaborate: www.linkedin.com/in/angel-iana
