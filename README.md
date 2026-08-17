@@ -1,6 +1,5 @@
 📊 Data Analytics Portfolio
 ---
----
 
 Welcome to my Data Analytics Portfolio.
 Here I collect my projects built with SQL, Excel, Power BI.
